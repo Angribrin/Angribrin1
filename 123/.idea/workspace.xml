@@ -18,7 +18,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../nshs10-105" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -55,9 +56,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="185" key="SettingsEditor" timestamp="1604142162520">
+    <state x="739" y="295" key="FileChooserDialogImpl" timestamp="1604746572341">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1604142162520" />
+    <state x="739" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1604746572341" />
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1604147496231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604147496231" />
+    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1604147496231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604147496231" />
+    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1604147496231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604147496231" />
+    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1604147496231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604147496231" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1604147354433">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1604147354433" />
   </component>
 </project>
